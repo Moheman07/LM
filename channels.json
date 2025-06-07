@@ -3,5 +3,10 @@
     "channel": "Test1",
     "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3NDc3MzM4MjM4MTU2OF9hbGlfamFjb183MjBIRC5mbHY/YXV0aF9rZXk9MTc0OTM0MTM2NS0wLTAtNDRlMzA4ZDQ1OWFkNTg0Njc3MjExMzMyOWJhNWI2ZTcmYml6PTAmY2lwPTE4OC43Mi40MC4xNjQmc3JjPTEmdWlkPTMwMDcwODgxNDkmdmRyPTAmc2lnbj04YjFmNjg2NGI3OTkxNjVjOGZkZjZhZmY3MDgwYzRiMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
     "image": "https://i.imgur.com/XLTM500.jpeg"
+  },
+  {
+    "channel": "Text2",
+    "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3NDAyMjUwNTU2MjExM19hbGlfamFjb183MjBIRC5mbHY/YXV0aF9rZXk9MTc0OTE2MDkwNy0wLTAtMmZlZTM3NzFlMjA3YzMzYjc2OGYyZmYxZTgwMjA0ZWUmYml6PTAmY2lwPTE4OC43Mi40MC4xNjQmc3JjPTEmdWlkPTMwMDcwODgxNDkmdmRyPTAmc2lnbj04YmEzOWNjMmVkZGJkZGY3ODYzOTA2ODIwZDg2NTUxYg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "image": "https://i.imgur.com/XLTM500.jpeg"
   }
 ]
