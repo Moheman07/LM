@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "channel": "مصارعة حرة",
+    "intent": "intent://aHR0cDovL2h3LXBsYXkuamFjb2Nkbi5jb206ODAvbGl2ZS81MTc0NzMwMjk4NTU2NDE5X2h1YXdlaS5mbHY/Yml6PTAmY2lwPTE4OC43Mi40MC4xNjQmaHdTZWNyZXQ9ZTc3MTI1OTUwZmYyMTE1NGQ1MmU5NjQ3NDRlNDVlZTdiMzViMDk3MWQ0ZmE1Mzg4ZjE4ZmQ1ZmRhOTFkMjgwOSZod1RpbWU9Njg0NGRiYzEmc3JjPTEmdWlkPTMwMDcwODgxNDkmdmRyPTAmc2lnbj0zN2E0NTM0MTgzNGNlMmJkM2Y2YTc1ZDcxN2VlMzVhYg==#Intent;scheme=xmtv;package=com.xpola.player;end"
+  }
+]
