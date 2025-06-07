@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "channel": "ريال مدريد VS الهلال السعودي",
+    "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3NDQ2MzI5MzI5MjU0NV9hbGkuZmx2P2F1dGhfa2V5PTE3NDkzNDMxOTItMC0wLWY0MWNiNThjNmJlYzJkODEwMzk0NTE4OWFjYjRmMmZkJmJpej0wJmNpcD0xODguNzIuNDAuMTY0JnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249ZGRhNTU4ZTM3NGZhZjBhODJlOTVjNDEwNjA3ZjFmZGQ=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "image": "https://i.imgur.com/XLTM500.jpeg"
+  }
+]
