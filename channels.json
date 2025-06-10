@@ -1,9 +1,5 @@
 [
   {
-    "channel": "🇧🇭 البحرين VS الصين 🇨🇳",
-    "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3NjA2MjA3Mzk2MjQ5OV9hbGkuZmx2P2F1dGhfa2V5PTE3NDk2NDMxNzctMC0wLTRiYzY5MmU3YTE5OTg1MmY4MTI0ZGI1OGFiZGZlM2EyJmJpej0wJmNpcD0xODguNzIuNDAuMTY0JnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249MTMzNTAzMDZlNmI4YTRhMWM4YmY5NmM4YjA5MWUwYTA=#Intent;scheme=xmtv;package=com.xpola.player;end"
-  },
-  {
     "channel": "🇰🇼 الكويت VS كوريا الجنوبية 🇰🇷",
     "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3NjA2MjY3Nzk3NTA0MF9hbGkuZmx2P2F1dGhfa2V5PTE3NDk2NDMxNzctMC0wLWRkM2MwZTkwZDMxYTUzM2E2MTE2ZWRhMWE0NmM3ZDI1JmJpej0wJmNpcD0xODguNzIuNDAuMTY0JnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249Y2NhZmJmOWQ4ZjM2NzA0NmE4Mjg0NWM2Y2FjNTA5YTc=#Intent;scheme=xmtv;package=com.xpola.player;end"
   },
