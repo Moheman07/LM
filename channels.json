@@ -10,5 +10,9 @@
   {
     "channel": "🇯🇵اليابان VS إندونيسيا 🇮🇩",
     "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3NjA1MjUxOTM3MDc1Ml9hbGkuZmx2P2F1dGhfa2V5PTE3NDk2NDM0ODQtMC0wLTdiNjVlZDE2NzU4YjNiY2YxMWM4OWI3NTQ2NTE3MmFiJmJpej0wJmNpcD0xODguNzIuNDAuMTY0JnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249MjAzNDExNGUyOTAzOTgzMGIxNzA4OTNiOThmNDQyNWE=#Intent;scheme=xmtv;package=com.xpola.player;end"
+  },
+  {
+    "channel": "🇶🇦 قطر VS أوزبكستان",
+    "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3NjA5NDMyMzk5ODcyM19hbGkuZmx2P2F1dGhfa2V5PTE3NDk2NDk4NDMtMC0wLWNkMTU0ZjI5NWM0OTM1NWYyNmJhM2RjMWViZTgwYjQ4JmJpej0wJmNpcD0xODguNzIuNDAuMTY0JnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249NGFhZDlhYzc2MTFkNGNhYWI5MDgyNGYwOTZmMzFjMzk=#Intent;scheme=xmtv;package=com.xpola.player;end"
   }
 ]
