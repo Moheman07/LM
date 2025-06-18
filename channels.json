@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "channel": "ريال مدريد VS الهلال قناة MBC 1",
+    "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3OTAyNjIxMzc5Nzg5MV9hbGkuZmx2P2F1dGhfa2V5PTE3NTAzNTc2MzItMC0wLTg3YTMzZmM5YTIxNzhlMTc2MThmOGE1ZmM4ZmJhMmE2JmJpej0wJmNpcD0xODguNzIuNDAuMTAyJnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249OTVjNjY4OTk3ODU3YWI0ZjJjMTMzYjU1NWExYWRjY2I=#Intent;scheme=xmtv;package=com.xpola.player;end"
+  }
+]
