@@ -4,10 +4,6 @@
     "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3OTAyNjIxMzc5Nzg5MV9hbGkuZmx2P2F1dGhfa2V5PTE3NTAzNTc2MzItMC0wLTg3YTMzZmM5YTIxNzhlMTc2MThmOGE1ZmM4ZmJhMmE2JmJpej0wJmNpcD0xODguNzIuNDAuMTAyJnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249OTVjNjY4OTk3ODU3YWI0ZjJjMTMzYjU1NWExYWRjY2I=#Intent;scheme=xmtv;package=com.xpola.player;end"
   },
   {
-    "channel": "ريال مدريد VS الهلال قناة MBC ACTION",
-    "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3OTAzNTE3MjgzMTIzMl9hbGkuZmx2P2F1dGhfa2V5PTE3NTAzNTc3MjAtMC0wLWVkNTNjZGFkNzM3YTM4NWEzMTc4YmYyMDljNDRjZTBlJmJpej0wJmNpcD0xODguNzIuNDAuMTAyJnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249NDhiZGRkOTI2NzZmZGUyMWNhZjBjZDgxZjVlNmU2YzU=#Intent;scheme=xmtv;package=com.xpola.player;end"
-  },
-  {
     "channel": "ريال مدريد VS الهلال قناة MBC MASR",
     "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3OTAyMTcwMDY5NDAxOF9hbGkuZmx2P2F1dGhfa2V5PTE3NTAzNTc5MjktMC0wLThlMjc5ZDlhN2NkOTkyMWIxNjNmYjUyNGI1M2JkMTg3JmJpej0wJmNpcD0xODguNzIuNDAuMTAyJnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249MTE0ODFiMTRkMmJjZTEyMjY5YmQ1OGY5OTdiNDlmNTY=#Intent;scheme=xmtv;package=com.xpola.player;end"
   }
