@@ -6,5 +6,9 @@
   {
     "channel": "ريال مدريد VS الهلال قناة MBC ACTION",
     "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE3OTA3NTI4MjkyNzYyNV9hbGkuZmx2P2F1dGhfa2V5PTE3NTAzNTg1OTgtMC0wLTI5MDZjMWM4ZjM4ZGUyMjdlMDk2YzFkZGVkNDExMGYzJmJpej0wJmNpcD0xODguNzIuNDAuMTAyJnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249YzA4ZjU5OTUzMjJhN2I0ZWU4ZDQxMzI5ZGEzMGJlZjU=#Intent;scheme=xmtv;package=com.xpola.player;end"
+  },
+  {
+    "channel": "ريال مدريد VS الهلال قناة DAZN",
+    "intent": "intent://aHR0cDovL2hldDExMmEuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS8xNTE1MDAwMDAwL2luZGV4Lm0zdTg/dD1ud2ZISjBaX1NySUhUQ2VhQnJ5ZkxRJmU9MTc1MDI5MTUxOQ==#Intent;scheme=xmtv;package=com.xpola.player;end"
   }
 ]
