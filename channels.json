@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "channel": "ريال مدريد VS يوفينتوس",
+    "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE4Mzc4Mzg3NzAxNzYwMF9hbGkuZmx2P2F1dGhfa2V5PTE3NTE0ODUxMDItMC0wLTYwMzEyNjY0NTc0NmFiMGNlZDUzMzA0MTc4MGE0YzEyJmJpej0wJmNpcD0xODguNzIuNDAuMTExJnNyYz0xJnVpZD0zMDA3MDg4MTQ5JnZkcj0wJnNpZ249MmE2NTdlZDlmMDBhZDZiNjgzMTY4MDJkM2U5NTRhMDQ=#Intent;scheme=xmtv;package=com.xpola.player;end"
+  }
+]
