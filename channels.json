@@ -2,5 +2,9 @@
   {
     "channel": "ريال مدريد VS باريس سان جيرمان تعليق فارس عوض",
     "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE4NjY3NzgxMjU1OTg3Ml9hbGkuZmx2P2F1dGhfa2V5PTE3NTIxNzA3NzUtMC0wLTAyYjU5NGQzMjU1YTMxNzVjNzE2ZDY3MWM0NDFlMGQwJmJpej0wJmNpcD0xODguNzIuNDAuMjAmc3JjPTEmdWlkPTMwMDcwODgxNDkmdmRyPTAmc2lnbj1iOTExNTk0ZmY1NGZjOWI2MDljM2I0NTYwZGFmODI2Zg==#Intent;scheme=xmtv;package=com.xpola.player;end"
+  },
+  {
+    "channel": "ريال مدريد VS باريس سان جيرمان قناة DAZN",
+    "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tOjgwL2xpdmUvNTE4NjY4MDIwNzQ3NDY4OF9hbGkuZmx2P2F1dGhfa2V5PTE3NTIxNzIxODgtMC0wLThlNTAyYjFlNjZmNmRlYWMzZjI1Mzc5MzdiMzJkZTViJmJpej0wJmNpcD0xODguNzIuNDAuMjAmc3JjPTEmdWlkPTMwMDcwODgxNDkmdmRyPTAmc2lnbj1hZTc0ODZiNzkwZjNhZDUwMjM2YTY3NDVjNjg4N2E1NA==#Intent;scheme=xmtv;package=com.xpola.player;end"
   }
 ]
