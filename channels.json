@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "channel": "تغطية مباريات اليوم",
+    "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tL2xpdmUvNTIwMDM4NzY0MTczNzIxNl9hbGkuZmx2P2F1dGhfa2V5PTE3NTUzNjg0NTgtMC0wLTRlOTM0YmZhNmFlNzc3ZGU5YTFkYTY1ODY0MzUxNmQ4JmJpej0wJmNpcD0xODguNzIuNDAuMiZzcmM9MSZ1aWQ9MzAwNzA4ODE0OSZ2ZHI9MCZzaWduPWY1ZGM1ZDljMjg3OGVkNDE2Nzg4YjJjMzZhOTNmMTI0#Intent;scheme=xmtv;package=com.xpola.player;end"
+  }
+]
