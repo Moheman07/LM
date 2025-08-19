@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "channel": "ريال مدريد VS اوساسونا",
+    "intent": "intent://aHR0cDovL2FsaS1wbGF5LmphY29jZG4uY29tL2xpdmUvNTIwMTU0NzA0ODEyNDQxNl9hbGlfNzIwUC5mbHY/YXV0aF9rZXk9MTc2NDI3MTIxMi0wLTAtNjdjNzYwN2NlNTllM2IyY2RiYmM4NzUzOTFmNjgxZmEmYml6PTAmY2lwPTE4OC43Mi40MC4xNTMmcGxheV9wcm90bz1mbHYmc3JjPTEmdWlkPTMwMDcwODgxNDkmdmRyPTAmc2lnbj1mN2YzZGIxZjEyMGYxOTI4NzNlNWRjYzZmMmJmZDBlOQ==#Intent;scheme=xmtv;package=com.xpola.player;end"
+  }
+]
